@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+app for developer.
 
 ## Getting Started
 
